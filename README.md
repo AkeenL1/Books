@@ -2,11 +2,9 @@
 Akeen's Book Code Repository
 
 ## What is this
----
 Repository containing all the ( hopefully runnable ) code from books I read
 
 ## Current Book
----
 Test Driven Development: By Example - Kent Beck
 
 ### Note on code
